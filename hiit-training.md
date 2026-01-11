@@ -204,7 +204,7 @@ High-Intensity Interval Training protocols optimized for cognitive enhancement a
 - Injury or pain
 - Sleep <5 hours
 - High stress/fatigue (accumulated)
-- Heart rate variability (HRV) significantly below baseline
+- Heart rate variability (HRV) significantly below baseline (>1 standard deviation below 7-day rolling average)
 
 ### Form Priorities
 1. Maintain neutral spine
